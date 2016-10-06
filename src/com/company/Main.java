@@ -9,6 +9,6 @@ public class Main {
         System.out.println("Nr.5");
         // Comments
         System.out.println("Hallooooo!");
-        System.out.println("Hallooooo!");
+        System.out.println("Hallooooo  Halloooo!");
     }
 }
